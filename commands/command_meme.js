@@ -2,13 +2,13 @@ const {Command} = require("./Command.js")
 const groups = require("../groups/membergroups.js")
 
 const memeArray = [
-    "https://cdn.discordapp.com/attachments/708715309107904526/813067267663331348/emo_boy-1.mp4",
-    "https://cdn.discordapp.com/attachments/708715309107904526/813629038354497586/honeypie-1.mp4",
-    "https://cdn.discordapp.com/attachments/708715309107904526/843209820978282506/17.mp4",
-    "https://cdn.discordapp.com/attachments/708715309107904526/846425197165936691/namida.mp4",
-    "https://cdn.discordapp.com/attachments/787412253388308480/847205766917783606/Stunning.mov",
-    "https://cdn.discordapp.com/attachments/708715309107904526/852643910711115776/video0.mp4",
-    "https://cdn.discordapp.com/attachments/708715309107904526/871868738692071514/yt1s.com_-_Gorgeous_Fennec_1080p.mp4",
+    "https://cdn.discordapp.com/attachments/708715309107904526/1091140576197480478/emo-boy-1.mp4",
+    "https://cdn.discordapp.com/attachments/708715309107904526/1091144058862309406/honeypie-1.mp4",
+    "https://cdn.discordapp.com/attachments/708715309107904526/1091145687141470208/17.mp4",
+    "https://cdn.discordapp.com/attachments/708715309107904526/1091146537138143262/namida.mp4",
+    "https://cdn.discordapp.com/attachments/708715309107904526/1091147003033047040/Stunning.mp4",
+    "https://cdn.discordapp.com/attachments/708715309107904526/1091147687639928926/video0.mp4",
+    "https://cdn.discordapp.com/attachments/708715309107904526/1091148533203206144/yt1s.com_-Gorgeous_Fennec_1080p.mp4",
     "https://cdn.discordapp.com/attachments/709164123602288690/881793625124646922/I_WISH_WE_NEVER_MET.mp4",
     "https://cdn.discordapp.com/attachments/708715309107904526/881956883202703360/BLOODPOP.mp4",
     "https://cdn.discordapp.com/attachments/708715309107904526/881957192293560340/fantasize.mp4",
